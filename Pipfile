@@ -16,6 +16,7 @@ nbformat = "*"
 lxml = "*"
 python-dotenv = "*"
 requests = "*"
+dash = "*"
 
 [dev-packages]
 
