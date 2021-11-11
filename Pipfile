@@ -18,6 +18,8 @@ python-dotenv = "*"
 requests = "*"
 dash = "*"
 dash-bootstrap-components = "*"
+numexpr = "*"
+bottleneck = "*"
 
 [dev-packages]
 
